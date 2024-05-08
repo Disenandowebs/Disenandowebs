@@ -32,29 +32,29 @@ Implementé técnicas como compresión de imágenes, carga diferida y caché par
 HTML5, CSS3 y JavaScript (ES6+).
 Frameworks y bibliotecas como React, Angular o Vue.js.
 Diseño responsivo y optimización para dispositivos móviles.
-Desarrollo Backend:
+2. Desarrollo Backend:
 Node.js y Express.js.
 Bases de datos relacionales (MySQL, PostgreSQL) y no relacionales (MongoDB).
 API RESTful y GraphQL.
-Control de Versiones:
+3. Control de Versiones:
 Git y GitHub para colaboración y seguimiento de cambios.
-Herramientas de Desarrollo:
+4. Herramientas de Desarrollo:
 Visual Studio Code u otros IDEs.
 NPM (Node Package Manager) para gestionar dependencias.
-Automatización y Pruebas:
+5. Automatización y Pruebas:
 Webpack, Gulp o Grunt para automatizar tareas.
 Pruebas unitarias con Jest o Mocha.
-Seguridad Web:
+6. Seguridad Web:
 Conocimientos básicos sobre OWASP Top Ten y buenas prácticas de seguridad.
-Optimización de Rendimiento:
+7. Optimización de Rendimiento:
 Carga diferida de recursos, compresión de imágenes y caché.
-Diseño UI/UX:
+8. Diseño UI/UX:
 Familiaridad con herramientas como Figma o Sketch.
 Diseño centrado en el usuario y accesibilidad.
-Despliegue y Hosting:
+9. Despliegue y Hosting:
 Firebase, Netlify o Heroku para alojar aplicaciones web.
 Configuración de dominios y certificados SSL.
-Metodologías y Prácticas:
+10. Metodologías y Prácticas:
 Desarrollo ágil (Scrum, Kanban).
 Gitflow para ramas y versiones.
 
