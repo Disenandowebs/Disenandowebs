@@ -8,7 +8,8 @@ Soy Desarrollador Web y soy un apasionado por mi trabajo. Con 20 años de experi
 
 ## EXPERIENCIA
 
-**Desarrollador Frontend en TechCo Solutions (2018-2020)**:
+**Desarrollador Frontend en TechCo Solutions (2018-2020)**
+
 Diseñé y desarrollé interfaces de usuario atractivas y funcionales utilizando HTML, CSS y JavaScript.
 Trabajé en estrecha colaboración con el equipo de diseño para implementar diseños responsivos y optimizados para dispositivos móviles.
 Utilicé frameworks como React y Vue.js para crear aplicaciones web interactivas y dinámicas.
