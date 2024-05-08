@@ -61,19 +61,24 @@ Gitflow para ramas y versiones.
 ## EDUCACIÓN
 
 **Licenciatura en Ciencias de la Computación**
+
 Universidad XYZ
 Fecha de graduación: Mayo de 2020
 Destacados:
 Cursos relevantes: Estructuras de datos, Algoritmos, Programación orientada a objetos.
 Proyecto de tesis: Desarrollo de una aplicación web de gestión de tareas utilizando React y Firebase.
+
 **Certificación en Desarrollo Web Full Stack**
+
 Plataforma de Aprendizaje en Línea ABC
 Fecha de finalización: Julio de 2019
 Contenido:
 Desarrollo Frontend: HTML, CSS, JavaScript, React.
 Desarrollo Backend: Node.js, Express, MongoDB.
 Pruebas unitarias y despliegue en la nube.
+
 **Cursos en línea y Autodidacta**
+
 Continúo mi aprendizaje a través de cursos en línea, blogs y documentación técnica. Algunos temas de interés incluyen:
 Diseño UI/UX.
 Seguridad web y buenas prácticas.
