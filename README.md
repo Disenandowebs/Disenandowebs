@@ -62,11 +62,11 @@ Gitflow para ramas y versiones.
 
 **Licenciatura en Ciencias de la Computación**
 
-Universidad XYZ
-Fecha de graduación: Mayo de 2020
-Destacados:
-**Cursos relevantes:** Estructuras de datos, Algoritmos, Programación orientada a objetos.
-**Proyecto de tesis:** Desarrollo de una aplicación web de gestión de tareas utilizando React y Firebase.
+Universidad XYZ  
+Fecha de graduación: Mayo de 2020  
+Destacados:  
+**Cursos relevantes:** Estructuras de datos, Algoritmos, Programación orientada a objetos.  
+**Proyecto de tesis:** Desarrollo de una aplicación web de gestión de tareas utilizando React y Firebase.  
 
 **Certificación en Desarrollo Web Full Stack**
 
