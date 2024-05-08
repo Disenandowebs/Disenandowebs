@@ -70,19 +70,19 @@ Destacados:
 
 **Certificación en Desarrollo Web Full Stack**
 
-Plataforma de Aprendizaje en Línea ABC
-Fecha de finalización: Julio de 2019
-**Contenido:**
-Desarrollo Frontend: HTML, CSS, JavaScript, React.
-Desarrollo Backend: Node.js, Express, MongoDB.
+Plataforma de Aprendizaje en Línea ABC  
+Fecha de finalización: Julio de 2019  
+**Contenido:**  
+Desarrollo Frontend: HTML, CSS, JavaScript, React.  
+Desarrollo Backend: Node.js, Express, MongoDB.  
 Pruebas unitarias y despliegue en la nube.
 
 **Cursos en línea y Autodidacta**
 
-Continúo mi aprendizaje a través de cursos en línea, blogs y documentación técnica. 
-Algunos temas de interés incluyen:
-Diseño UI/UX.
-Seguridad web y buenas prácticas.
+Continúo mi aprendizaje a través de cursos en línea, blogs y documentación técnica.  
+Algunos temas de interés incluyen:  
+Diseño UI/UX.  
+Seguridad web y buenas prácticas.  
 Optimización de rendimiento.
 
 ## REFERENCIAS
