@@ -14,19 +14,21 @@ Diseñé y desarrollé interfaces de usuario atractivas y funcionales utilizando
 Trabajé en estrecha colaboración con el equipo de diseño para implementar diseños responsivos y optimizados para dispositivos móviles.
 Utilicé frameworks como React y Vue.js para crear aplicaciones web interactivas y dinámicas.
 
-**Desarrollador Full Stack en Innovate Labs (2021-2023)**:
+**Desarrollador Full Stack en Innovate Labs (2021-2023)**
+
 Desarrollé aplicaciones web completas desde cero utilizando tecnologías como Node.js, Express y MongoDB.
 Implementé autenticación de usuarios, gestión de bases de datos y API RESTful.
 Colaboré con diseñadores y otros desarrolladores para crear soluciones escalables y eficientes.
 
-**Especialista en Optimización de Rendimiento en WebSpeed Corp (2024-presente)**:
+**Especialista en Optimización de Rendimiento en WebSpeed Corp (2024-presente)**
+
 Analicé y optimicé el rendimiento de sitios web existentes para mejorar la velocidad de carga y la experiencia del usuario.
 Utilicé herramientas como Lighthouse y PageSpeed Insights para identificar áreas de mejora.
 Implementé técnicas como compresión de imágenes, carga diferida y caché para lograr tiempos de carga más rápidos.
 
 ## HABILIDADES
 
-Desarrollo Frontend:
+1. Desarrollo Frontend:
 HTML5, CSS3 y JavaScript (ES6+).
 Frameworks y bibliotecas como React, Angular o Vue.js.
 Diseño responsivo y optimización para dispositivos móviles.
