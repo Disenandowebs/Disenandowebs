@@ -1,3 +1,5 @@
+![Portada Disenandowebs](/src/img/portada_site.gif)
+
 # HOJA DE VIDA Y PORTAFOLIO
 
 ## ACERCA DE MI
